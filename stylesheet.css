@@ -44,10 +44,13 @@ h3{
 .article{
   color: #FFFFFF;
   background-color: #0F0F0F;
+  padding: 10%;
+  margin: 0px;
 }
 .article h5{
   font-size: 18px;
 }
 .article p{
   font-size: 12px;
+  text-align: justify;
 }
