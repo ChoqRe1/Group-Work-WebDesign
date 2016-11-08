@@ -38,3 +38,16 @@ h3{
 	margin:auto;
 	max-width:1200px;
 }
+
+/*Section of style for the articles*/
+
+.article{
+  color: #FFFFFF;
+  background-color: #0F0F0F;
+}
+.article h5{
+  font-size: 18px;
+}
+.article p{
+  font-size: 12px;
+}
