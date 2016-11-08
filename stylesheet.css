@@ -6,10 +6,34 @@ body {
 nav{
 	float:right;
 }
+header{
+	border-bottom:solid 2px black;
+	min-height:130px;
+}
+header img{
+	float:right;
+}
+main{
+	padding-left:2%;
+}
 footer{
 	clear:right;
 }
-div{
+h1{
+	margin-top:0;
+	padding-top:2.5%;
+	margin-bottom:0;
+	padding-left:2%;
+}
+h2{
+	margin-top:0;
+	padding-left:2%;
+}
+h3{
+	margin-top:0;
+	padding-top:1%;
+}
+.container{
 	border:solid 2px black;
 	margin:auto;
 	max-width:1200px;
