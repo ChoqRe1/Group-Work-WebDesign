@@ -36,9 +36,12 @@ h3{
 .container{
 	border:solid 2px black;
 	margin:auto;
-	max-width:1200px;
+	max-width:950px;
 }
+iframe{
+  border:none;
 
+}
 /*Section of style for the articles*/
 
 .article{
