@@ -27,6 +27,7 @@ h1{
 }
 h2{
 	margin-top:0;
+  margin-bottom: 0px;
 	padding-left:2%;
 }
 h3{
@@ -36,7 +37,8 @@ h3{
 .container{
 	border:solid 2px black;
 	margin:auto;
-	max-width:950px;
+	max-width:775px;
+  min-width: 546px;
 }
 iframe{
   border:none;
