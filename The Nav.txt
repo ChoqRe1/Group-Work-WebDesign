@@ -1,0 +1,9 @@
+        <nav>
+		<h4>
+			<a href="index.html">Home</a> &middot;
+                	<a href="requirements.html">Prerequisites</a> &middot;
+                	<a href="future.html">Work Opportunities</a> &middot;
+                	<a href="semester.html">Semester Breakdown</a>
+		</h4>
+
+        </nav>
